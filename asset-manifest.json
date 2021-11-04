@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PptxGenJS/demo/react/static/css/main.2f4b62c8.chunk.css",
+    "main.js": "/PptxGenJS/demo/react/static/js/main.01df2c5d.chunk.js",
+    "main.js.map": "/PptxGenJS/demo/react/static/js/main.01df2c5d.chunk.js.map",
+    "runtime-main.js": "/PptxGenJS/demo/react/static/js/runtime-main.4d745bcb.js",
+    "runtime-main.js.map": "/PptxGenJS/demo/react/static/js/runtime-main.4d745bcb.js.map",
+    "static/js/2.cdcccf3c.chunk.js": "/PptxGenJS/demo/react/static/js/2.cdcccf3c.chunk.js",
+    "static/js/2.cdcccf3c.chunk.js.map": "/PptxGenJS/demo/react/static/js/2.cdcccf3c.chunk.js.map",
+    "index.html": "/PptxGenJS/demo/react/index.html",
+    "static/css/main.2f4b62c8.chunk.css.map": "/PptxGenJS/demo/react/static/css/main.2f4b62c8.chunk.css.map",
+    "static/js/2.cdcccf3c.chunk.js.LICENSE.txt": "/PptxGenJS/demo/react/static/js/2.cdcccf3c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PptxGenJS/demo/react/static/media/Marianne-Regular.7cb0bc7c.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d745bcb.js",
+    "static/js/2.cdcccf3c.chunk.js",
+    "static/css/main.2f4b62c8.chunk.css",
+    "static/js/main.01df2c5d.chunk.js"
+  ]
+}
